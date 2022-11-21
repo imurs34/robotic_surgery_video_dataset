@@ -2,7 +2,7 @@
 
 ## Overview
 
-We introduce a labeled dataset of prostatectomy robotic surgical videos. It contains data from a total of 286 videos, which are segmented into 3756 segments. It includes the labeling results of the anatomy and surgical actions covered in each part of the videos.
+We introduce a labeled dataset of prostatectomy robotic surgical videos. It contains data from a total of 296 videos, which are segmented into 3756 segments. It includes the labeling results of the anatomy and surgical actions covered in each part of the videos.
 
 ## Dataset
 
