@@ -7,7 +7,7 @@ We introduce a labeled dataset of prostatectomy robotic surgical videos. It cont
 ## Dataset
 
 label.csv : Main dataset file. Each row represents a specific segment of the video. Each row includes video ID, start/end time of the segment (expressed in seconds), and label ID.
-surgical_video_metadata.csv : Details of each video in the dataset, including ID (which is used in label.csv), title, author, length (expressed in seconds), and URL.
+surgical_video_metadata.csv : Details of each video in the dataset, including ID (which is used in label.csv), title, author, length (expressed in seconds), URL, upload year and surgical approach (i.e., anterior or posterior).
 
 ## Licensing
 
